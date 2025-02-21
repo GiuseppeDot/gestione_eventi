@@ -1,4 +1,0 @@
-package com.example.gestione_eventi.booking;
-
-public interface BookingRepository {
-}
